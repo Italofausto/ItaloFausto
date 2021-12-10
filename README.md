@@ -10,6 +10,7 @@
 - 🎓 Estudate de desenvolvimento de software.
 - 🤔 Sempre curioso com os detalhe e busco aprender uma coisa de cada vez. 
 - 📍 Atualmente resido na região metropolitana do Recife - PE. 
+- ♻️ Reciclando Github. 
 
 
   
